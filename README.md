@@ -11,7 +11,7 @@ alt="Signal processing" border="1" hspace="200" width="400"></a>
 <!-- ------------------------------------------------------------ -->
 <h2><hr><a name="Introduction">Introduction</a></h2>
 <a href="https://catalogue.uottawa.ca/search/?P=ELG%204177">ELG 4177</a> Digital Signal Processing .<br><br>
- The lab is part of course component. <br><br>
+ <br><br>
 The course consists of:  
 Review of discrete-time signals and systems, the sampling theorem, and Fourier series/transforms. Sampling rate conversions. A/D and D/A conversions. Z-transform and LTI system analysis. 
 Minimal, maximal and mixed phase systems. Discrete Fourier Transform and Fast Fourier Transform (FFT). Windowing effects. Finite Impulse Response (FIR) filter design (linear phase,
