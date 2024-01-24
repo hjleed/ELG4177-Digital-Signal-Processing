@@ -11,7 +11,7 @@ alt="Signal processing" border="1" hspace="200" width="400"></a>
 <!-- ------------------------------------------------------------ -->
 <h2><hr><a name="Introduction">Introduction</a></h2>
 <a href="https://catalogue.uottawa.ca/search/?P=ELG%204177">ELG 4177</a> Digital Signal Processing .<br><br>
- <br><br>
+
 The course consists of:  
 Review of discrete-time signals and systems, the sampling theorem, and Fourier series/transforms. Sampling rate conversions. A/D and D/A conversions. Z-transform and LTI system analysis. 
 Minimal, maximal and mixed phase systems. Discrete Fourier Transform and Fast Fourier Transform (FFT). Windowing effects. Finite Impulse Response (FIR) filter design (linear phase,
@@ -19,7 +19,7 @@ Minimal, maximal and mixed phase systems. Discrete Fourier Transform and Fast Fo
  Structures for implementation: direct, cascade, lattice, lattice-ladder, parallel. Finite word length effects. Introduction to spectral analysis. 
  Real time implementation. <br><br>
 
-Prerequisite: <a href="https://catalogue.uottawa.ca/search/?P=ELG%203125">ELG 3125</a>
+Prerequisite: <a href="https://catalogue.uottawa.ca/search/?P=ELG%203125">ELG 3125</a>  ELG3125: https://www.site.uottawa.ca/~hjlee103/courses/ELG3125A.html
 
 <!---- Anothe Section ----------------------------------------->
 <hr><h2><a name="Tutorials">Tutorials </a></h2>
